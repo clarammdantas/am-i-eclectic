@@ -1,0 +1,3 @@
+# Am I Eclectic?
+
+This is an application that shows you how eclectic you are based on your lastfm data. It generates a graph where the artists are vertices and an edge connect two similar artists. So, the components of the graph will represent the different types of music you listen to. If your graph have a lot of components, you listen to a lot of different kinds of music, otherwise you don't have a very diverse taste.
